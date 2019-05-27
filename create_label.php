@@ -3,8 +3,6 @@
 //Load the config file. It might be in a very diferent place
 require_once('../../../config.php');
 
-die();
-
 // Load course lib
 require_once($CFG->dirroot . '/course/lib.php');
 
